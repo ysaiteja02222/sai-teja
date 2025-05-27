@@ -1,0 +1,12 @@
+<Doctype html>
+<htmllang="en">
+<head>
+ <title>html</title>
+<head>
+<h1>coding</h1>
+<h2>tags&attributes</h2>
+</head>
+<p>hypertextmarkuplanguage</p>
+<body>
+</body>
+</html>
